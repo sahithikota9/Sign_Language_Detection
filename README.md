@@ -57,4 +57,7 @@ MIT
 ## Acknowledgments
 
 - MediaPipe for hand tracking
+
 - OpenCV for computer vision capabilities
+
+Large datasets and trained model files are available in the Releases section of this repository.
